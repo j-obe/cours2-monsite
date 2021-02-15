@@ -1,0 +1,97 @@
+body{
+     background-image: url(fond-dauphine-bleu.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100%;
+     width: 100%;
+     font-family: Montserrat, Helvetica, Sans Serif;
+     text-align: center;
+     }
+
+     h1{
+          display: table;
+          margin: 2em auto 1.5em auto;
+          padding: 0.3em;
+          color: white;
+          background-color: #37C6EF;
+          font-size: 2em;
+          font-weight: 800;
+          text-transform: uppercase;
+     }
+
+     h2{
+          color: white;
+          font-size: 1.5em;
+          font-weight: 700;
+          text-transform: uppercase;
+     }
+
+     h2:hover{
+          color: #37C6EF;
+     }
+
+     h3{
+          color: white;  
+          font-size: 1.3em;
+          font-weight: 100;
+     }
+
+     p{
+          font-weight: 100;
+     }
+
+     a:link{
+          text-decoration: none;
+     }
+
+     a {
+          color: #2F4486;
+     }
+
+     a:hover{
+          color: #37C6EF;
+     }
+
+     #masters{
+          width: 90%;
+          margin: auto;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+     }
+
+     .box{
+          width: 25em;
+          background-color: #2F4486;
+          margin: 2em;
+          padding: 2em;
+          color: white;
+     }
+
+     .clic_decouvrez{
+          display: table;
+          margin: 0.1em auto 0.1em auto;
+          padding: 0.5em;
+          background-color: white;
+          font-size: 0.9em;
+          font-weight: 700;
+          text-transform: uppercase;
+     }
+
+     #reseaux img{
+          width: 3em;
+          margin: 0.5em;
+     }
+
+     footer{
+          margin-top: 3em;
+          font-size: 0.5em;
+          color: white;
+          text-transform: uppercase;
+     }
+
+     #logo{
+          width: 30em;
+          margin: 1em auto 3em auto;
+     }
